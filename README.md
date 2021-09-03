@@ -8,4 +8,8 @@
 
 # integrate with graphQL
 
+# integrate typescript
+
+# add dark theme mode
+
 # deploy app
