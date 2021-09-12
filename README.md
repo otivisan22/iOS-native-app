@@ -13,3 +13,5 @@
 # add dark theme mode
 
 # deploy app
+
+# type checking with typescript
