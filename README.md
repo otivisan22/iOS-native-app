@@ -15,3 +15,7 @@
 # deploy app
 
 # type checking with typescript
+
+#install nativescript
+
+#create a new svelte app
